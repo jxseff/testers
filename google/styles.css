@@ -1,0 +1,17 @@
+.main {
+  margin-top: 100px;
+}
+
+body {
+  background: white;
+}
+
+.logo-img {
+  width: 400px;
+  display: block;
+}
+
+.search-input {
+  width: 300px;
+  display: block;
+}
