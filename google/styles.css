@@ -9,9 +9,29 @@ body {
 .logo-img {
   width: 400px;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .search-input {
-  width: 300px;
+  width: 500px;
   display: block;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.search-button {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.lucky-button {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.privacy-policy {
+  margin-left: auto;
+  margin-right: auto;
 }
