@@ -19,19 +19,21 @@ body {
   margin-bottom: 10px;
   margin-left: auto;
   margin-right: auto;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+
+  line-height: 24px;
 }
 
-.search-button {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.lucky-button {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.privacy-policy {
+.btn {
+  margin-top: 30px;
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
